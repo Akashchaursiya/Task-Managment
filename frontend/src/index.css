@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background: linear-gradient(135deg, #f3ec78, #af4261); 
+  font-family: 'Roboto', sans-serif; 
+}
